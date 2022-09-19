@@ -35,6 +35,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sacstar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sacstar" /></a></p><br><br>
 
+<h3 align="left"> Oh God ! Python 🐍 is eating my Github contribution graph. </h3>
+
+<img align="center" alt="snake" src="https://github.com/iamsacstar/iamsacstar/raw/output/github-contribution-grid-snake.svg" style="max-width: 100%;">
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsacstar&show_icons=true&locale=en&layout=compact" alt="iamsacstar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsacstar&show_icons=true&locale=en" alt="iamsacstar" /></p>
